@@ -1,0 +1,37 @@
+body {
+    background-image: radial-gradient(circle, red, crimson);
+    background-attachment: fixed;
+}
+
+h1 {
+    color:yellow;
+    font-size: 150px;
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    font-weight: 100;
+    margin-top: -10px;
+
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color:black;
+}
+
+.n1 {
+    width: 100vw;
+    display: inline-block;
+    color:yellow;
+    text-align: center;
+    font-size: 100px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 100;
+    margin-top: 50px;
+
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color:black;
+}
+
+.n2 {
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 900;
+}
